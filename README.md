@@ -76,7 +76,7 @@ CLIP Score measures image–prompt alignment. PSNR, SSIM, and LPIPS compare each
 
 ## 🎨Visualizations
 
-> **Visualization PlaceHolder:** Add qualitative comparisons of FORA with different refresh interval.
+![Qualitative Examples](assets/visualizations.png)
 
 ## 👏Acknowledgement
 
